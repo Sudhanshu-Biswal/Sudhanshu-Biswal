@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sudhanshu-Biswal
-- 👀 I’m interested in data_science
+- 👀 I’m interested in data_science and AI
 - 🌱 I’m currently learning deep learing and AI.
 - 💞️ I’m looking to collaborate on real life project
 - 📫 How to reach me https://www.linkedin.com/in/sudhanshubiswal
